@@ -1,0 +1,9 @@
+[proxy]
+proxy_port = 8888
+redirect_sdk = "http://hk4e:8080"
+redirect_dispatch = "http://hk4e:8080"
+
+[logger]
+level = "debug"
+track_line = true
+track_thread = true
